@@ -3,4 +3,4 @@ regex==2017.4.5
 requests==2.21.0
 tqdm==4.31.1
 gpt2-client==2.1.5
-tensorflow==1.13.1
+tensorflow==2.7.2
